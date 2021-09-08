@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @0ne-zero
+- 👀 I’m interested in porgramming
+- 🌱 I’m currently learning python
+- 📫 How to reach me pouria.khakpour9909@gmail.com
