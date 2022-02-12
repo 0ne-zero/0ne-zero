@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @0ne-zero
-- 👀 I’m interested in porgramming
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning Algorithm and Data Structure!
 - 📫 How to reach me pouria.khakpour9909@gmail.com
