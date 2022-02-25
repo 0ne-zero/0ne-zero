@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Pouria
-- 👀 I’m interested in programming
+- 👀 I’m interested in Programming,Neuroscience, Artificial intelligence,and few other things ...
 - 🌱 I’m currently learning Algorithm and Data Structure!
 - 📫 How to reach me pouria.khakpour9909@gmail.com
